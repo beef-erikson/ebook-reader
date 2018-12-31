@@ -12,11 +12,11 @@ public class Heyo
         myWin.Resize(600,600);
 
         // Creates a label and puts some text in it
-        Label myLable = new Label();
-        myLable.Text = "Hi. Hope you're day / evening is well, fellow devs o7\nHappy New Year!!\n\nMore interesting things to come here after sleep!";
+        Label myLabel = new Label();
+        myLabel.Text = "Hi. Hope you're day / evening is well, fellow devs o7\nHappy New Year!!\n\nMore interesting things to come here after sleep!";
 
         // Adds label to form
-        myWin.Add(myLable);
+        myWin.Add(myLabel);
 
         // Show everything
         myWin.ShowAll();
