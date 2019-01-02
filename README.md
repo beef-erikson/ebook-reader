@@ -9,4 +9,4 @@ Also, if you plan on developing with this, you will want to check with your dist
 Once this comes along a little further, I'll do a more throrough dependency check.
 
 # More Documentation
-I'll get to this. Fucking tired.
+I'll get to this. Will be auto-generating docs using in-code XML comments.
